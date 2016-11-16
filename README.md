@@ -33,7 +33,7 @@ $ npm install -g json-server
 $ cd my-project\fake_db
 $ json-server --watch db.json
 ```
-- Open second command prompt
+- Open second command prompts
 ```
 $ cd my-project
 $ http-server
