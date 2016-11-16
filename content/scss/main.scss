@@ -1,0 +1,60 @@
+$header: #35495E;
+$nav: #41B883;
+
+header {
+    height: 83px;
+    background-color: $header;
+    h1 {
+        position: absolute;
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        margin: 0 auto;
+        padding-top: 20px;
+        text-align: center;
+        color: white;
+    }
+}
+
+nav {
+    background-color: $nav !important;
+    border-color: transparent !important;
+    .navbar-brand {
+        padding: 0 15px !important;
+        .brand {
+            height: 50px;
+        }
+    }
+    a {
+        color: black !important;
+    }
+    #changeLanguage {
+        margin-top: 10px;
+        button {
+            margin-right: 5px;
+        }
+    }
+}
+
+.userRow {
+    cursor: pointer;
+}
+
+#userDetails {
+    padding-top: 10px;
+}
+
+#todos {
+    padding-top: 10px;
+}
+
+.top-right {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+}
+
+.active {
+    font-weight: bold;
+}

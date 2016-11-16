@@ -1,0 +1,63 @@
+header {
+  height: 83px;
+  background-color: #35495E;
+}
+
+header h1 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  margin: 0 auto;
+  padding-top: 20px;
+  text-align: center;
+  color: white;
+}
+
+nav {
+  background-color: #41B883 !important;
+  border-color: transparent !important;
+}
+
+nav .navbar-brand {
+  padding: 0 15px !important;
+}
+
+nav .navbar-brand .brand {
+  height: 50px;
+}
+
+nav a {
+  color: black !important;
+}
+
+nav #changeLanguage {
+  margin-top: 10px;
+}
+
+nav #changeLanguage button {
+  margin-right: 5px;
+}
+
+.userRow {
+  cursor: pointer;
+}
+
+#userDetails {
+  padding-top: 10px;
+}
+
+#todos {
+  padding-top: 10px;
+}
+
+.top-right {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+}
+
+.active {
+  font-weight: bold;
+}
