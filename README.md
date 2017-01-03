@@ -6,13 +6,6 @@ Vue 1.0 Basic project - Start From Scratch
 
 Go to [Node website](https://nodejs.org/en/)
 
-- Install npm
-
-Open command prompt
-
-```
-$ npm install npm -g
-```
 - Install http-server ([source](https://github.com/indexzero/http-server))
 
 A command-line http server
