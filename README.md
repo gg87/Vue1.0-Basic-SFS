@@ -1,7 +1,7 @@
 # Vue1.0-Basic-SFS
 Vue 1.0 Basic project - Start From Scratch
 
-## Installation Step by Step
+## Installation
 - Install Node.js
 
 Go to [Node website](https://nodejs.org/en/)
