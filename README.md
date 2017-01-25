@@ -6,13 +6,13 @@ Vue 1.0 Basic project - Start From Scratch
 
 Go to [Node website](https://nodejs.org/en/)
 
-- Install http-server ([source](https://github.com/indexzero/http-server))
+- Install [http-server](https://github.com/indexzero/http-server)
 
 A command-line http server
 ```
 $ npm install -g http-server
 ```
-- Install json-server ([source](https://github.com/typicode/json-server))
+- Install [json-server](https://github.com/typicode/json-server)
 
 Full fake REST API
 ```
@@ -43,6 +43,7 @@ $ http-server
 - [Vue Resource](https://github.com/vuejs/vue-resource)
 - [Vue Router](https://github.com/vuejs/vue-router)
 - [Vue i18n](https://github.com/kazupon/vue-i18n)
+- NO unit/integration test has been developed
 
 ## Conclusion
 
